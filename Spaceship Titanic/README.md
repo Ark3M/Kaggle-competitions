@@ -7,4 +7,4 @@ Work in progress...
 + Titanic.ipynb – main file.
 + train.csv – train sample
 + test.csv – test sample
-+ submission.csv -- submission file
++ submission.csv – submission file
