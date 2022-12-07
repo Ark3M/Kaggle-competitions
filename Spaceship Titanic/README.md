@@ -8,4 +8,5 @@ Score: 0.80430
 + `Spaceship_Titanic.ipynb` – main file.
 + `train.csv` – train sample.
 + `test.csv` – test sample.
-+ `sample_submission.csv` – submission file.
++ `sample_submission.csv` – sample submission file.
++ `submission.csv` – final submission file.
