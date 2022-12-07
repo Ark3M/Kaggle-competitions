@@ -1,5 +1,5 @@
 # Spaceship Titanic
-Work in progress...
+Score: 0.80430
 
 ## Competition page: https://www.kaggle.com/competitions/spaceship-titanic/overview
 
